@@ -7,7 +7,7 @@ loans_dataset.csv – Original Lending Club dataset provided by the instructor.
 
 How to reproduce the analysis:
 1. Download this repository
-2. Open loans_analysis.ipynb in Google Colab
+2. Open Data_Report.ipynb in Google Colab
 3. Ensure loans_dataset.csv is available in Colab
 4. Run all cells in order from top to bottom
 
